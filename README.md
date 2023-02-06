@@ -23,6 +23,6 @@ The ARC is designed and developed by Dr. Lei Lei, Professor in Applied Linguisti
 
 ## Downloads
 
-https://osf.io/c674y/
+https://github.com/leileibama/AlphaReadabilityCalculator/releases/tag/ARC
 
 Hope the ARC helps. Comments and suggestions are welcome! (leileicnATqqDOTcom)
