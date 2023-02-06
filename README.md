@@ -2,11 +2,9 @@
 
 Hi all,
 
-Happy to release our new app, Alpha Readability Calculator (ARC) 1.0. The ARC is a wrapper of the Python package "readability" (https://pypi.org/project/readability/), which helps calculate nine readability indices as well as 29 measures at lexical and syntactic levels. 
+Happy to release our new app, Alpha Readability Calculator (ARC) 1.0. The ARC is a wrapper of the Python package "readability" (https://pypi.org/project/readability/), which helps calculate nine readability indices as well as 29 measures at lexical and syntactic levels. Our special thanks go to the developers of "readability".
 
-Our special thanks to the developers of "readability" (https://pypi.org/project/readability/).
-
-The ARC is designed and developed by Dr. Lei Lei, Professor in Applied Linguistics, Shanghai International Studies University. The ARC provides versions working on both MS Windows and Mac OS. It is free to use the ARC, but you may need to cite the Python package "readability" (https://pypi.org/project/readability/) when you use it in your research. We would very much appreciate it if you also kindly cite the ARC and our works such as Wen and Lei (2022) and Lei and Yan (2016). 
+The ARC is designed and developed by Dr. Lei Lei, Professor in Applied Linguistics, Shanghai International Studies University. The ARC provides versions working on both MS Windows and Mac OS. It is free to use the ARC, but you may need to cite the Python package "readability" when you use it in your research. We would very much appreciate it if you also kindly cite the ARC and our works such as Wen and Lei (2022) and Lei and Yan (2016). 
 
 - Wen, Ju & Lei, Lei*. 2022. Adjectives and adverbs in life sciences across 50 years: implications for emotions and readability in academic texts. Scientometrics. 10.1007/s11192-022-04453-z.
 
