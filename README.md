@@ -21,4 +21,8 @@ The ARC is designed and developed by Dr. Lei Lei, Professor in Applied Linguisti
 
 4. Click "Calculate". When the ARC says "Processing ends", find the newly generated file entitled "00ARC_Results_readability.csv" in your chosen folder (such as the folder "my_test_files"). The file contains the results. Open it with your spreadsheet app such as MS Office Excel or Numbers on Mac OS and check out the readability measures of all texts in the folder.
 
+## Downloads
+
+https://osf.io/c674y/
+
 Hope the ARC helps. Comments and suggestions are welcome! (leileicnATqqDOTcom)
